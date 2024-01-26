@@ -41,9 +41,9 @@
   align-items: center;
   margin: auto;
   width: 480px;
-  height: 60px;
+  height: 50px;
   background: #EAEAEA;
-  border-radius: 6px;
+  border-radius: 10px;
 }
 
 .input input{
@@ -54,6 +54,7 @@
   outline: none;
   color: #797979;
   font-size: 19px;
+  padding-left: 10px;
 }
 
 .forgot-password{
